@@ -8,6 +8,6 @@ on-pull-requests:
     - external_pull_requests
 
 include:
-  - project: "kzap/gitlab-external-pr-bug2"
+  - project: "kzap/gitlab-external-pr-bug-private"
     ref: master
     file: ci-job.yaml
